@@ -1,6 +1,0 @@
-"0","db %>% "
-"0","  mutate(Bolsas = forcats::as_factor(Bolsas)) %>% "
-"0","  ggplot(aes(x = M, fill = Bolsas))+"
-"0","  # geom_bar(position=position_dodge())+"
-"0","  geom_bar() +"
-"0","  theme_minimal()"
