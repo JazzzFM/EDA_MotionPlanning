@@ -1,0 +1,5 @@
+"0","db %>% "
+"0","  mutate(Bolsas = forcats::as_factor(Bolsas)) %>% "
+"0","  ggplot(aes(x = M, y = Bolsas))+"
+"0","  geom_tile(aes(fill = Burbujeos, color = Burbujeos)) +"
+"0","  theme_minimal()"

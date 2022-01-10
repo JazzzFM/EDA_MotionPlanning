@@ -1,0 +1,4 @@
+"0","x <- db$M"
+"0","y <- db$Burbujeos"
+"0","z <- db$Bolsas"
+"0","plot3D::scatter3D(x, y, z, theta = 0, phi = 25)"
